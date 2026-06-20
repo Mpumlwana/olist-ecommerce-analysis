@@ -40,6 +40,20 @@ Power BI dashboard.
 3. **Geographic Analysis** — Brazil bubble map by state revenue
 4. **Customer Satisfaction** — Review score distribution
 
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](reports/screenshots/01_executive_summary.png)
+
+### Category Performance
+![Category Performance](reports/screenshots/02_category_performance.png)
+
+### Geographic Analysis
+![Geographic Analysis](reports/screenshots/03_geographic_analysis.png)
+
+### Customer Satisfaction
+![Customer Satisfaction](reports/screenshots/04_customer_satisfaction.png)
+
 ## Dataset
 - Source: [Olist Brazilian E-Commerce Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - Size: ~100,000 orders across 9 relational tables
